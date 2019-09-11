@@ -1,1 +1,8 @@
 気付いたこと
+
+gitの基礎はLinuxの産みの親であるLinus torvalsが発明した。
+gitはソースのverasion管理の仕組み。
+githubはgitをweb上で使えるようにしたもの。
+
+git(ツール)を使えばローカルでのversion管理、github上での管理ができる。
+githubの多くの機能はweb上でもできるが、ツールを使う必要性はどこか？
