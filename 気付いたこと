@@ -31,6 +31,12 @@ git checkout ＊＊＊
 過去ver.をダウンロードするにはsoucetreeなどからタグをつける。
 名前をつけてコミットを指定し(簡単なコメント)、タグを作成。タグをpushする。
 
+.gitignoreの使い方
+要するに無視するファイルだが
+
+.gitignoreの自動生成ツール
+https://gitignore.io/
+
 Gist
 "Gist"は、ちょっとしたコードを不特定多数の人に共有したいときに使えるサービス。
 Gitツールも不要で共有することができるため、ウェブ上ですぐにはじめることができる。
@@ -40,3 +46,4 @@ Gitツールも不要で共有することができるため、ウェブ上で�
 
 参考
 https://qiita.com/legitwhiz/items/360eb08049ff8eb119b0
+https://qiita.com/lovee/items/d76c68341ec3e7beb611?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=344a08560f-Qiita_newsletter_378_09_11_2019&utm_medium=email&utm_term=0_e44feaa081-344a08560f-33299445
