@@ -46,3 +46,22 @@ $ git config user.email
 ・リモートURLの確認
 
 $ git remote -v
+
+## Branch
+
+ブランチの作成
+
+$ git branch < branchname >
+
+ローカルのブランチの一覧
+
+$ git branch
+
+
+リモートのブランチの一覧
+
+$ git branch -r
+
+ローカルの作業を新しいブランチを作成し移管
+
+$ git checkout -b < branchname >
